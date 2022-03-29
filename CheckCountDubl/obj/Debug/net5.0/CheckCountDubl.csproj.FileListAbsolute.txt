@@ -10,15 +10,3 @@ C:\Users\Maxim\source\repos\ConsoleApp3\CheckCountDubl\obj\Debug\net5.0\CheckCou
 C:\Users\Maxim\source\repos\ConsoleApp3\CheckCountDubl\obj\Debug\net5.0\CheckCountDubl.dll
 C:\Users\Maxim\source\repos\ConsoleApp3\CheckCountDubl\obj\Debug\net5.0\ref\CheckCountDubl.dll
 C:\Users\Maxim\source\repos\ConsoleApp3\CheckCountDubl\obj\Debug\net5.0\CheckCountDubl.pdb
-C:\Users\Maxim\Desktop\CountDublicates\CheckCountDubl\bin\Debug\net5.0\CheckCountDubl.deps.json
-C:\Users\Maxim\Desktop\CountDublicates\CheckCountDubl\bin\Debug\net5.0\CheckCountDubl.dll
-C:\Users\Maxim\Desktop\CountDublicates\CheckCountDubl\bin\Debug\net5.0\ref\CheckCountDubl.dll
-C:\Users\Maxim\Desktop\CountDublicates\CheckCountDubl\bin\Debug\net5.0\CheckCountDubl.pdb
-C:\Users\Maxim\Desktop\CountDublicates\CheckCountDubl\obj\Debug\net5.0\CheckCountDubl.csprojAssemblyReference.cache
-C:\Users\Maxim\Desktop\CountDublicates\CheckCountDubl\obj\Debug\net5.0\CheckCountDubl.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Maxim\Desktop\CountDublicates\CheckCountDubl\obj\Debug\net5.0\CheckCountDubl.AssemblyInfoInputs.cache
-C:\Users\Maxim\Desktop\CountDublicates\CheckCountDubl\obj\Debug\net5.0\CheckCountDubl.AssemblyInfo.cs
-C:\Users\Maxim\Desktop\CountDublicates\CheckCountDubl\obj\Debug\net5.0\CheckCountDubl.csproj.CoreCompileInputs.cache
-C:\Users\Maxim\Desktop\CountDublicates\CheckCountDubl\obj\Debug\net5.0\CheckCountDubl.dll
-C:\Users\Maxim\Desktop\CountDublicates\CheckCountDubl\obj\Debug\net5.0\ref\CheckCountDubl.dll
-C:\Users\Maxim\Desktop\CountDublicates\CheckCountDubl\obj\Debug\net5.0\CheckCountDubl.pdb

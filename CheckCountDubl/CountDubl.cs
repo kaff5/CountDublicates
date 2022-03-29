@@ -6,7 +6,7 @@ namespace CheckCountDubl
     {
         public int Count(string str)
         {
-            var alphabets = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!'()*+,-./:;<=>?@[\\]^_`{|}~".ToCharArray();
+            var alphabets = "abcdefghijklmnopqrstuvwxyz0123456789".ToCharArray();
             int[] nums = new int[alphabets.Length];
             var tmp = str.ToLower().ToCharArray();
 

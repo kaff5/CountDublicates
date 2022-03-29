@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R09gg/qcsuIQ1/agJ31z+OABmnT0WbAZjSaDt1Abgvbt71GVsEf6I7xtAYWzzE4KE8Iwmm7KcxYflUp5XSYqRg==",
+  "dgSpecHash": "6tQzAgLXSqD7zH0k4lJf7WgRU0t30sp4tYrAI9zxpZ0Cjo9LCkXd+jzs1IjyU4r+869In0xqeolXXq+FkdJW0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl\\CheckCountDubl.csproj",
+  "projectFilePath": "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl\\CheckCountDubl.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
