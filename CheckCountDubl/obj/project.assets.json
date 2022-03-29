@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl\\CheckCountDubl.csproj",
+      "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl\\CheckCountDubl.csproj",
       "projectName": "CheckCountDubl",
-      "projectPath": "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl\\CheckCountDubl.csproj",
+      "projectPath": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl\\CheckCountDubl.csproj",
       "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl\\obj\\",
+      "outputPath": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
