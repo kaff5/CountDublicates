@@ -1,37 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maxim\\Desktop\\CountDublicates\\WEBBACK2\\WEBBACK2\\back.csproj": {}
+    "C:\\Users\\Maxim\\Desktop\\CountDublicates\\WEBBACK2\\CheckCountDubl\\CheckCountDubl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maxim\\Desktop\\CountDublicates\\WEBBACK2\\WEBBACK2\\back.csproj": {
+    "C:\\Users\\Maxim\\Desktop\\CountDublicates\\WEBBACK2\\CheckCountDubl\\CheckCountDubl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\WEBBACK2\\WEBBACK2\\back.csproj",
-        "projectName": "back",
-        "projectPath": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\WEBBACK2\\WEBBACK2\\back.csproj",
+        "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\WEBBACK2\\CheckCountDubl\\CheckCountDubl.csproj",
+        "projectName": "CheckCountDubl",
+        "projectPath": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\WEBBACK2\\CheckCountDubl\\CheckCountDubl.csproj",
         "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\WEBBACK2\\WEBBACK2\\obj\\",
+        "outputPath": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\WEBBACK2\\CheckCountDubl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl\\CheckCountDubl.csproj": {
-                "projectPath": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl\\CheckCountDubl.csproj"
-              }
-            }
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -41,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -53,6 +49,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
