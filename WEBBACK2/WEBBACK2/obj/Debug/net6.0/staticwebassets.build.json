@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5CVc1ClLjA3R7IjK8u2aU1oTGACDD4cpo0flKGdHea8=",
+  "Source": "back",
+  "BasePath": "_content/back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "back\\wwwroot",
+      "Source": "back",
+      "ContentRoot": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\WEBBACK2\\WEBBACK2\\wwwroot\\",
+      "BasePath": "_content/back",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
