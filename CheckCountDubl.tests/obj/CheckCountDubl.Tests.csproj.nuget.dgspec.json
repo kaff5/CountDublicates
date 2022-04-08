@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl.tests\\CheckCountDubl.Tests.csproj": {}
+    "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl.tests\\CheckCountDubl.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl.tests\\CheckCountDubl.Tests.csproj": {
+    "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl.tests\\CheckCountDubl.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl.tests\\CheckCountDubl.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl.tests\\CheckCountDubl.Tests.csproj",
         "projectName": "CheckCountDubl.Tests",
-        "projectPath": "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl.tests\\CheckCountDubl.Tests.csproj",
+        "projectPath": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl.tests\\CheckCountDubl.Tests.csproj",
         "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl.tests\\obj\\",
+        "outputPath": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl\\CheckCountDubl.csproj": {
-                "projectPath": "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl\\CheckCountDubl.csproj"
+              "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl\\CheckCountDubl.csproj": {
+                "projectPath": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl\\CheckCountDubl.csproj"
               }
             }
           }
@@ -52,9 +52,21 @@
               "target": "Package",
               "version": "[2.1.1, )"
             },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.7.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
             },
             "coverlet.collector": {
               "target": "Package",
@@ -80,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl\\CheckCountDubl.csproj": {
+    "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl\\CheckCountDubl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl\\CheckCountDubl.csproj",
+        "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl\\CheckCountDubl.csproj",
         "projectName": "CheckCountDubl",
-        "projectPath": "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl\\CheckCountDubl.csproj",
+        "projectPath": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl\\CheckCountDubl.csproj",
         "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxim\\source\\repos\\ConsoleApp3\\CheckCountDubl\\obj\\",
+        "outputPath": "C:\\Users\\Maxim\\Desktop\\CountDublicates\\CheckCountDubl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
